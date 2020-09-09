@@ -1,4 +1,4 @@
-# Basic DL Tute
+# Basic DL Tute (7BISS)
 Basic Deep Learning Tutorial with astronomy data
 
 - Open the BasicDL.ipynb in Google Colab (download and upload if required)
